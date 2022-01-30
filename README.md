@@ -3,6 +3,10 @@ Instagram Boot Api
 
 Minimum Requirement :
   Java 1.8 
+  
+Control:
+ java --version (Windows)
+ java -version (MAC ve unix)
 
 youtube :
   https://www.youtube.com/watch?v=eUcXN_SAIQg
